@@ -1,0 +1,266 @@
+body {
+    background-color: #f1f2f3;
+}
+.container {
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 1550px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+.img1 {
+    display: inline-block;
+    margin-left: 300px;
+    padding: 10px;
+}
+.p1 {
+    display: inline-block;
+    margin: 30px;
+    /* margin-bottom: 30px; */
+    /* padding: 20px; */
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    margin-left: 210px;
+}
+.img2 {
+    width: 550px;
+}
+.container3 {
+    line-height: 30px;
+    padding: 20px;
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    margin-left: 30px;
+}
+.p2 {
+    display: inline-block;
+    margin-left: 40px;
+    color: dimgray;
+}
+.strong1 {
+    font-weight: 100;
+}
+.container4 {
+    background-color: #C31815;
+    width: 1550px;
+    height: 100px;
+    padding-top: 20px;
+    display: flex;
+}
+.h2class {
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    margin-left: 300px;
+    display: inline-block;
+    text-align: center;
+    font-size: medium;
+    padding-top: 10px;
+    margin-top: 5px;
+    color: red;
+}
+.h2class2 {
+    display: inline-block;
+    margin-left: 50px;
+    color: white;
+}
+.container5-1 {
+    background-color: rgba(255, 255, 255, 0.85);;
+    width: 870px;
+    height: 60px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+.h2class3 {
+    display: inline-block;
+    margin: 30px;
+}
+.container6 {
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+.container6-1 {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+.pdiv6 {
+    margin-top: 60px;
+    display: inline-block;
+    margin-left: 40px;
+    color: dimgray;
+}
+.strongdiv6 {
+    display: inline-block;
+}
+.container6-2 {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.h2live {
+    color: #C31815;
+    display: inline-block;
+    margin-left: 80px;
+    margin-right: 10px;
+}
+.container6-3 {
+    width: 200px;
+    height: 70px;
+    margin-left: 80px;
+}
+.img48 {
+    width: 400px;
+}
+.checkboxpng {
+    display: inline-block;
+    margin-left: 30px;
+}
+.container6-4 {
+    width: 400px;
+}
+.container6-5 {
+    padding: 15px;
+    background-color: #FFFFFF;
+}
+.button1 {
+    width: 300px;
+    height: 60px;
+}
+.button2 {
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #C31815;
+    color: #f1f2f3;
+    border-radius: 5px;
+    border-color: #C31815;
+}
+.container6-6 {
+    width: 1000px;
+    height: 550px;
+    display: flex;
+    margin-top: 30px;
+}
+.container6-7 {
+    background-color: #FFFFFF;
+    width: 390px;
+    height: 440px;
+    margin-top: 40px;
+    padding: 15px;
+    display: inline-block;
+}
+.container6-8 {
+    background-color: #FFFFFF;
+    width: 390px;
+    display: inline-block;
+    margin-left: 30px;
+    padding: 15px;
+    margin-top: 40px;
+    height: 440px;
+}
+.buttonview {
+    margin: auto 0;
+    margin-left: 330px;
+    width: 220px;
+    height: 60px;
+    border-radius: 5px;
+    border-color: #C31815;
+    color: #C31815;
+    font-weight: 500;
+}
+.containerboss {
+    width: 1600px;
+    height: 300px;
+}
+
+.containeradmin1 {
+display: inline-block;
+}
+.containeradmin2 {
+    display: inline-block;
+    width: 300px;
+    padding: 5px;
+    align-items: center;
+}
+.imgboss {
+    width: 300px;
+    display: inline-block;
+}
+.containeradmin3 {
+    display: inline-block;
+    width: 300px;
+}
+.containeradmin4 {
+    display: inline-block;
+    width: 300px;
+   
+}
+
+.exitheader {
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 100px;
+    color: white;
+}
+.exit2 {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    color: dimgray;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.ex {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 50px;
+    color: white;
+}
+.nam1 {
+    display: inline-block;
+margin-left: 10px;
+}
+.nam2 {
+    display: inline-block;
+margin-left: 50px;
+}
+.nam3 {
+    display: inline-block;
+margin-left: 50px;
+}
+.nam4 {
+    display: inline-block;
+margin-left: 50px;
+}
+.exitdiv {
+    display: flex;
+    background-color: #0E1E32;
+    width: 1550px;
+    padding: 20px;
+    height: 250px;
+}
+.exitp {
+    margin-top: 50px;
+}
+.imgheader {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+
+
+
